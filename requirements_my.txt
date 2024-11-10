@@ -1,0 +1,37 @@
+.\envrobo\Scripts\activate
+
+particle js for block		
+texillate for text animation
+
+Creating Virtual environment
+installing Eel module -> important for connecting backend with frontend
+Connecting backend with frontend
+made apk mode for msedge.
+
+siriwave
+
+pyttsx3 for speak
+SpeechRecognition -> microphonr thi speech recognize kari text ma convert karse.
+PyAudio-> requirement library for SpeechRecognition
+
+pywhatkit for youtube
+webbrowser module
+
+Hotword Detection -> pvporcupine==1.9.5
+
+win + j key 
+
+pyautogui for automations
+
+offcanvas of bootstrap
+
+saurabhk@gmail.com
+Saurabh@hug12
+
+ADB command line tool(Android debug bridge)
+
+srcpy screen mirroring for mobile screen
+
+spy video recording, selfie, auto recording, note taking.
+cv2 module
+lottie files -> animations for face authentication
